@@ -32,5 +32,7 @@ Project is created with:
 	{{getName()}}
         {{password}}	
 	
-	
+    Include letters ${this.includeLetters}
+    Include numbers ${this.includeNumbers}
+    Include symbols ${this.includeSymbols}
 
