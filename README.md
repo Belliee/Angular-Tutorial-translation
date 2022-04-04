@@ -13,6 +13,6 @@
 Project is created with:
 
 ### Example mockup
-![alt text](https://github.com/Belliee/Angular_Tutorial-translation/blob/main/udemy-scr.png)
+![alt text](https://github.com/Belliee/Angular-Tutorial-translation/blob/main/udemy-scr.png)
 
 ### Implementation
