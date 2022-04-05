@@ -19,6 +19,7 @@ Project is created with:
 * to start a new project: ng new<app name>
 * to start project: npm start or ng serve 
 * to stp: control c.
+* now.sh to deploy uor app, free to use
 	
 ### First Syntax
 	
@@ -35,4 +36,11 @@ Project is created with:
     Include letters ${this.includeLetters}
     Include numbers ${this.includeNumbers}
     Include symbols ${this.includeSymbols}
+	
+	
+	notes
+	in js empty value are like false,
+	*ngIF="" <= displaying content/structure if statement is true
+			    
+		
 
